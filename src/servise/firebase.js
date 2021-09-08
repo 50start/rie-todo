@@ -4,12 +4,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBVTDJXgIloSZVwBKuimjOs2SeORdaSDMc",
-  authDomain: "react-todo-rie.firebaseapp.com",
-  projectId: "react-todo-rie",
-  storageBucket: "react-todo-rie.appspot.com",
-  messagingSenderId: "937695881627",
-  appId: "1:937695881627:web:d935be666d63159fca593e",
+  
 };
 
 firebase.initializeApp(firebaseConfig);
